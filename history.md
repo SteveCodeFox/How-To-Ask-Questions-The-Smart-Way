@@ -37,7 +37,7 @@
 		</tr>
 		<tr>
 			<td align="left" colspan="3">
-    新增非英文母語者的提示
+    新增非英文母语者的提醒
       </td>
 		</tr>
 		<tr>
@@ -47,7 +47,7 @@
 		</tr>
 		<tr>
 			<td align="left" colspan="3">
-    數個翻譯版本消失了
+    数个翻译版本消失了
       </td>
 		</tr>
 		<tr>
@@ -57,7 +57,7 @@
 		</tr>
 		<tr>
 			<td align="left" colspan="3">
-    小更新以及新增連結
+    小更新以及新增链接
       </td>
 		</tr>
 		<tr>
@@ -67,7 +67,7 @@
 		</tr>
 		<tr>
 			<td align="left" colspan="3">
-    更新翻譯連結
+    更新翻译链接
       </td>
 		</tr>
 		<tr>
@@ -77,7 +77,7 @@
 		</tr>
 		<tr>
 			<td align="left" colspan="3">
-    新增"當詢問有關程式碼的問題時"段落
+    新增“当询问有关代码的问题时”段落
       </td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@
 		</tr>
 		<tr>
 			<td align="left" colspan="3">
-    加入 Kai Niggemann 編寫的好建議
+    加入Kai Niggemann编写的好建议
       </td>
 		</tr>
 		<tr>
@@ -97,7 +97,7 @@
 		</tr>
 		<tr>
 			<td align="left" colspan="3">
-    加入 Rick Moen 編寫的內容
+    加入Rick Moen编写的内容
       </td>
 		</tr>
 		<tr>
@@ -117,7 +117,7 @@
 		</tr>
 		<tr>
 			<td align="left" colspan="3">
-    關於在網路論壇上適當禮儀主要版本
+    新增'Google是你的好朋友'文件于在网络论坛上适当礼仪主要版本
       </td>
 		</tr>
 	</tbody>
