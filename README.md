@@ -1,4 +1,9 @@
 # 提问的智慧
+
+
+*本文档尚未完成，部分内容仍未经修改，建议不要阅读该文档*
+
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/SteveCodeFox/How-To-Ask-Questions-The-Smart-Way/pulls)
 
 **How To Ask Questions The Smart Way**
