@@ -18,7 +18,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu, 2024
 
 本指南基于由 [Gasolin](https://github.com/gasolin) 所翻译版本的优化版本；
 
-协助指出本改版问题，**请[发 issue](https://github.com/SteveCodeFox/How-To-Ask-Questions-The-Smart-Way/issues/new)，或直接[发 pull request](https://github.com/SteveCodeFox/How-To-Ask-Questions-The-Smart-Way/compare) 给我。**
+协助指出本改版问题，**请[发 issue](https://github.com/SteveCodeFox/How-To-Ask-Questions-The-Smart-Way/issues/new)。**
 
 ## [原英文版本历史](history.md)
 
